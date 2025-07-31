@@ -1,0 +1,6 @@
+
+baseURL = 'https://brendanmarz.github.io/'
+languageCode = 'en-us'
+title = 'Brendan Marz'
+theme = 'PaperMod'
+publishDir = 'docs'
